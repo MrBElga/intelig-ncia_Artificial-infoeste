@@ -1,6 +1,6 @@
 # Inteligência Artificial - Infoeste 2024
 
-Este repositório contém o material do curso de **Inteligência Artificial** ministrado por mim na **Infoeste 2024** para alunos da **ETEC**. O curso teve como objetivo introduzir os conceitos e práticas fundamentais da inteligência artificial, utilizando ferramentas e técnicas modernas para resolução de problemas.
+Este repositório contém o material do curso de **Inteligência Artificial** ministrado por mim e mais 3 colegas na **Infoeste 2024** para alunos da **ETEC**. O curso teve como objetivo introduzir os conceitos e práticas fundamentais da inteligência artificial, utilizando ferramentas e técnicas modernas para resolução de problemas.
 
 ## Conteúdo
 
@@ -22,7 +22,7 @@ O curso abordou os seguintes tópicos:
 4. **Projetos Práticos**
    - Exercícios práticos em IA para aprendizado e implementação de modelos
    - Ferramentas como **Python** e bibliotecas como **TensorFlow** e **keras**
-   - 
+     
 ## Estrutura do Repositório
 
 O repositório está organizado da seguinte maneira:
