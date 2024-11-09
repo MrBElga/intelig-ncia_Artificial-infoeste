@@ -21,8 +21,8 @@ O curso abordou os seguintes tópicos:
 
 4. **Projetos Práticos**
    - Exercícios práticos em IA para aprendizado e implementação de modelos
-   - Ferramentas como **Python** e bibliotecas como **TensorFlow** e **OpenCV**
-
+   - Ferramentas como **Python** e bibliotecas como **TensorFlow** e **keras**
+   - 
 ## Estrutura do Repositório
 
 O repositório está organizado da seguinte maneira:
