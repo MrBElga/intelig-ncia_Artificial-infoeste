@@ -47,10 +47,7 @@ Capacitar os alunos a:
 1. Faça o clone do repositório:
    ```bash
    git clone https://github.com/usuario/Infoeste2024-IA.git
-2. Instale os pacotes necessários:
-   ```bash
-   pip install -r requirements.txt
-3. Explore os notebooks no diretório notebooks/ para seguir os exemplos e projetos.
+2. Explore os notebooks no diretório notebooks/ para seguir os exemplos e projetos.
 
 ## 🤝 **Colaboradores**
 - [MrBElga (GitHub)](https://github.com/MrBElga)
